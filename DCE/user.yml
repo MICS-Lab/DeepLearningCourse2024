@@ -1,0 +1,92 @@
+# Access type. Format: 'cpu', 'gpu' or 'all' (access both partitions)
+# Default value: all
+#
+# ex:
+#   access: gpu
+
+access: gpu
+
+# User login. Lowercase only. No space, no special character.
+# If access is 'gpu' or 'cpu', actual login will be cpu_<login> or gpu_<login>
+#
+# ex:
+#   login: vaderd
+
+login: p.dubois
+
+# User full name.
+#
+# ex:
+#   name: 'Darth Vader'
+
+name: "Paul Dubois"
+
+# Mail of the user
+#
+# ex:
+#   email: "darth.vader@death.star"
+
+email: "p.dubois@centralesupelec.fr"
+
+# List of Slurm accounts. First account in list is the default account for user.
+#
+# ex:
+#   slurm_accounts: 'cpust6'
+
+#slurm_accounts:
+
+# Expiration date. Format YYYY-MM-DD
+#
+# ex:
+#   expire_date: "2022-12-31"
+
+#expire_date:
+
+# Optional open date. Login access will be open on this date. Format YYYY-MM-DD
+# Default value: current date
+#
+# ex:
+#   open_date: "2022-12-31"
+
+#open_date:
+
+# Optional group.
+# Default value: users
+#
+# ex:
+#   ugroup: cputp4
+
+#ugroup:
+
+# Optional professor rights. Add to prof slurm account and prof group.
+# Default value: false
+#
+# ex:
+#   prof: true
+
+prof: true
+
+# Optional admin rights. Add to admin slurm account and dce-admin group. Grant sudoers rights.
+# Default value: false
+#
+# ex:
+#   admin: true
+
+#admin: false
+
+# Optional QOS for account. First qos specified is the qos that will be used if no qos is specified. The others are qos that the user will be allowed to use if explicitely specified.
+# If the account does not require specific qos, use 'qos: normal'.
+# Default value: 'normal'
+#
+# ex:
+#   qos: normal
+#   qos: normal,8nodespu,16nodespu
+
+#qos: normal
+
+# Optional comment
+#
+# ex:
+#   comment: "Check project validity"
+
+comment: "test for course in january"
