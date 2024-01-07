@@ -13,7 +13,7 @@ Ressources for Deep Learning Course (VSE).
   * Around 5 persons per group
   * To Be Determined
   * Oral presentations on the 26th of March 2024 (1:30 pm)
-  * Easiest presentations that are thoroughly understood are preferred to complicated ones that only scratched the surface
+  * Simplest presentations that are thoroughly understood are preferred to complicated ones that only scratched the surface
   * Slides and written report must be in English. Presentation does not need to.
 
 ## Drive folder with datasets:
