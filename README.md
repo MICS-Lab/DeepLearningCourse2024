@@ -17,4 +17,4 @@ Ressources for Deep Learning Course (VSE).
   * Slides must be in English. Presentation does not need to.
 
 ## Drive folder with datasets:
-
+https://drive.google.com/drive/folders/14QmpxUPmpeRtUxnDiCIaNLlsx9KIv8AK?usp=sharing
