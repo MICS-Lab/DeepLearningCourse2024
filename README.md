@@ -9,9 +9,9 @@ Ressources for Deep Learning Course (VSE).
   * MICS MNIST : https://www.kaggle.com/competitions/2024-decimal-classification-mics-mnist
   * Upscale : https://www.kaggle.com/competitions/2024-upscale
   * Cartoon to Imgae: https://www.kaggle.com/competitions/2024-cartoon-to-image
-  * ???
-  * Video
-  * Text
+  * Segmentation (human vs background?) @Romain
+  * Video (sword classification?) @Romain
+  * Text (classify sample to author?) @Romain
 - Presentation
   * Oral presentations on the 26th of March 2024 (1:30 pm)
   * Simplest presentations that are thoroughly understood are preferred to complicated ones that only scratched the surface
