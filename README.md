@@ -7,7 +7,7 @@ Ressources for Deep Learning Course (VSE).
   * Fitting 3D-3D : https://www.kaggle.com/competitions/2024-fitting-a-3d-3d-function-with-deep-learning
   * Binary Classification : https://www.kaggle.com/competitions/2024-binary-classification-glasses-no-glasses
   * MICS MNIST : https://www.kaggle.com/competitions/2024-decimal-classification-mics-mnist
-  * Upscale
+  * Upscale : https://www.kaggle.com/competitions/2024-upscale
   * Cartoon to Imgae: https://www.kaggle.com/competitions/2024-cartoon-to-image
   * ???
   * Video
