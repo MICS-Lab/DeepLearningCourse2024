@@ -8,7 +8,7 @@ Ressources for Deep Learning Course (VSE).
   * Binary Classification : https://www.kaggle.com/competitions/2024-binary-classification-glasses-no-glasses
   * MICS MNIST : https://www.kaggle.com/competitions/2024-decimal-classification-mics-mnist
   * Upscale : https://www.kaggle.com/competitions/2024-upscale
-  * Cartoon to Imgae: https://www.kaggle.com/competitions/2024-cartoon-to-image
+  * Cartoon to Image: https://www.kaggle.com/competitions/2024-cartoon-to-image
   * Segmentation (human vs background?) @Romain
   * Video (sword classification?) @Romain
   * Text (classify sample to author?) @Romain
