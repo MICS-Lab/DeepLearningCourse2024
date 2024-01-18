@@ -3,14 +3,11 @@ Ressources for Deep Learning Course (VSE).
 
 ## Grade breakdown:
 - Kaggle challenges (based of _performance_ only); All deadlines are on the 19th of March 2024, 5pm
-  * Fitting 1D-1D: https://www.kaggle.com/competitions/2024-fitting-a-1d-function-with-deep-learning
-  * OR Fitting 3D-3D: https://www.kaggle.com/competitions/2024-fitting-a-3d-3d-function-with-deep-learning
+  * Fitting 1D-1D: https://www.kaggle.com/competitions/2024-fitting-a-1d-function-with-deep-learning OR Fitting 3D-3D: https://www.kaggle.com/competitions/2024-fitting-a-3d-3d-function-with-deep-learning
 
-  * Binary Classification: https://www.kaggle.com/competitions/2024-binary-classification-glasses-no-glasses
-  * OR MICS MNIST: https://www.kaggle.com/competitions/2024-decimal-classification-mics-mnist
+  * Binary Classification: https://www.kaggle.com/competitions/2024-binary-classification-glasses-no-glasses OR MICS MNIST: https://www.kaggle.com/competitions/2024-decimal-classification-mics-mnist
 
-  * Upscale: https://www.kaggle.com/competitions/2024-upscale
-  * OR Cartoon to Image: https://www.kaggle.com/competitions/2024-cartoon-to-image
+  * Upscale: https://www.kaggle.com/competitions/2024-upscale OR Cartoon to Image: https://www.kaggle.com/competitions/2024-cartoon-to-image
 
   * Video (sword classification?) @Romain
 
