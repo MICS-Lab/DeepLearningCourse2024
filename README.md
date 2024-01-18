@@ -11,7 +11,7 @@ Ressources for Deep Learning Course (VSE).
   * Cartoon to Image: https://www.kaggle.com/competitions/2024-cartoon-to-image
   * Segmentation (human vs background?) @Romain
   * Video (sword classification?) @Romain
-  * Text (classify sample to author?): https://www.kaggle.com/t/df03bc431c964f438504e61971b24b93
+  * Text (classify sample text to theme): https://www.kaggle.com/t/df03bc431c964f438504e61971b24b93
 - Presentation
   * Oral presentations on the 26th of March 2024 (1:30 pm).
   * Simplest presentations that are thoroughly understood are preferred to complicated ones that only scratched the surface.
