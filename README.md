@@ -12,6 +12,7 @@ Ressources for Deep Learning Course (VSE).
   * Video (sword classification?): https://www.kaggle.com/t/0a9ec2ba020e45f5a3c74e52f6f21bda (We will go through a short tutorial about how to handle video files)
 
   * Text (classify sample text to theme): https://www.kaggle.com/t/df03bc431c964f438504e61971b24b93
+
 - Presentation
   * Oral presentations on the 26th of March 2024 (1:30 pm).
   * Simplest presentations that are thoroughly understood are preferred to complicated ones that only scratched the surface.
