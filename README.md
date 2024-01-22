@@ -9,7 +9,7 @@ Ressources for Deep Learning Course (VSE).
 
   * Upscale: https://www.kaggle.com/competitions/2024-upscale OR Cartoon to Image: https://www.kaggle.com/competitions/2024-cartoon-to-image
 
-  * Video (sword classification?): https://www.kaggle.com/t/0a9ec2ba020e45f5a3c74e52f6f21bda (We will go through a short tutorial about how to handle video files)
+  * Video (sword classification): https://www.kaggle.com/t/0a9ec2ba020e45f5a3c74e52f6f21bda (We will go through a short tutorial about how to handle video files)
 
   * Text (classify sample text to theme): https://www.kaggle.com/t/df03bc431c964f438504e61971b24b93
 
