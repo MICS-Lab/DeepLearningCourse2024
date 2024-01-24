@@ -1,6 +1,9 @@
 # Deep Learning Course
 Ressources for Deep Learning Course (VSE).
 
+## GitHub Repository:
+https://github.com/MICS-Lab/DeepLearningCourse2024
+
 ## Grade breakdown:
 - Kaggle challenges (based of _performance_ only); All deadlines are on the 19th of March 2024, 5pm
   * Fitting 1D-1D: https://www.kaggle.com/competitions/2024-fitting-a-1d-function-with-deep-learning OR Fitting 3D-3D: https://www.kaggle.com/competitions/2024-fitting-a-3d-3d-function-with-deep-learning
